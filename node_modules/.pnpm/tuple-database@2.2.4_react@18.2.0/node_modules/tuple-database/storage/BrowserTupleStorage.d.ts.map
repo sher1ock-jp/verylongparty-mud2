@@ -1,0 +1,1 @@
+{"version":3,"file":"BrowserTupleStorage.d.ts","sourceRoot":"","sources":["BrowserTupleStorage.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,wBAAwB,CAAA;AACxD,OAAO,EAAE,oBAAoB,EAAE,MAAM,wBAAwB,CAAA;AAC7D,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAA;AAclC,qBAAa,mBACZ,SAAQ,oBACR,YAAW,eAAe;IAEP,eAAe,EAAE,MAAM;gBAAvB,eAAe,EAAE,MAAM;IAI1C,MAAM,CAAC,MAAM,EAAE,QAAQ,GAAG,IAAI;CAI9B"}
